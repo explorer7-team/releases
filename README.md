@@ -4,7 +4,7 @@ READ THE WINCLASSIC POST IF YOU CAME HERE FROM AN EXTERNAL LINK: https://winclas
 
 This is the official repository for explorer7 releases.
 
-Discord server: https://discord.gg/d3yVmW4xgr
+Discord server: https://discord.gg/AgZRdsGQWq
 
 ## Registry options
 
