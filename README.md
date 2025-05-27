@@ -1,12 +1,14 @@
-# DO NOT LINK DIRECTLY TO THIS REPO! PLEASE USE THE WINCLASSIC POST LINK AT THE START OF THIS README.
-# explorer7 - ex7forw8, modernized
-READ THE WINCLASSIC POST IF YOU CAME HERE FROM AN EXTERNAL LINK: https://winclassic.net/thread/2588/explorer7-windows-explorer-10-11
+# explorer7 releases have [moved](https://github.com/explorer7-foundation/source/releases).
+---
+## DO NOT LINK DIRECTLY TO THIS REPO! PLEASE USE THE WINCLASSIC POST LINK AT THE START OF THIS README.
+## explorer7 - ex7forw8, modernized
+READ THE WINCLASSIC POST IF YOU CAME HERE FROM AN EXTERNAL LINK: https://winclassic.net/thread/3005/explorer7-restoring-windows-7-experience
 
 This is the official repository for explorer7 releases.
 
-Discord server: https://discord.gg/AgZRdsGQWq
+Discord server: https://discord.gg/d3yVmW4xgr
 
-## Registry options
+### Registry options
 
 These options are located under `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`.
 
